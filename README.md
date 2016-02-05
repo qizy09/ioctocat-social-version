@@ -2,7 +2,9 @@
 
 =================================
 
-This project aims at adding social features for GitHub Apps. **Our slogan is, "Impress your friend with your coding!"**
+This project aims at adding social features for GitHub Apps.
+
+**Our slogan is, "Impress your friend with your coding!"**
 
 This project is based on the open source version 1 of [iOctocat](https://github.com/dennisreimann/ioctocat/tree/f6a31575707b0a51609a40bb32089eea97841612).
 
