@@ -1,7 +1,6 @@
 # iOctocat - Social Version GitHub App for iOS
-
-=================================
-
+This project is expected to update continuously recently
+--------------------------
 This project aims at adding social features for GitHub Apps.
 
 **Our slogan is, "Impress your friend with your coding!"**
