@@ -1,4 +1,7 @@
 # iOctocat - Social Version GitHub App for iOS
+
+=================================
+
 This project aims at adding social features for GitHub Apps. **Our slogan is, "Impress your friend with your coding!"**
 
 This project is based on the open source version 1 of [iOctocat](https://github.com/dennisreimann/ioctocat/tree/f6a31575707b0a51609a40bb32089eea97841612).
@@ -16,22 +19,6 @@ Please note that the source of iOctocat is still available and can be used, just
 to [the last ref before the cleaning](https://github.com/dennisreimann/ioctocat/tree/f6a31575707b0a51609a40bb32089eea97841612) - just keep
 in mind that this version is not updated for iOS 7.
 
-## Further information
-
   * [Development](DEVELOPMENT.md) - How to build and test the app
   * [Contributing](CONTRIBUTING.md) - How to file issues and prepare pull requests
   * [Contributors](/dennisreimann/ioctocat/contributors) - Nice people
-
-## Attribution
-
-iOctocat uses some third party components and libraries:
-
-  * [AFNetworking](https://github.com/AFNetworking/AFNetworking) by Gowalla
-  * [Base64](https://github.com/ekscrypto/Base64) by ekscrypto
-  * [YRDropdownView](https://github.com/onemightyroar/YRDropdownView) by One Mighty Roar
-  * [ECSlidingViewController](https://github.com/edgecase/ECSlidingViewController) by EdgeCase
-  * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) by Sam Vermette
-  * [SVProgressHUD](https://github.com/samvermette/SVProgressHUD) by Sam Vermette
-  * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) by Michael Tyson
-  * [Glyphish Pro](http://glyphish.com/) icons
-  * [highlight.js](http://highlightjs.org/) by Ivan Sagalaev
